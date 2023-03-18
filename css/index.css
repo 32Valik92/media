@@ -62,7 +62,7 @@ button {
 }
 
 /* Стилізація під телефон */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 451px) {
     .divUser {
         width: 80%;
     }
